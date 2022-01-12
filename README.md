@@ -1,4 +1,6 @@
-# Workshop
+# Workshop data
+
+# main repo: https://github.com/qayyumu/DL_codes
 
 ## Session 02: Intro to python
 https://urlzs.com/YXGdB
@@ -15,3 +17,7 @@ https://copilot.github.com/
 ## Session 07: GAN
 https://urlzs.com/xu5Rw
 
+## Session 08: Q learning 
+
+## openAi gym
+https://gym.openai.com/
