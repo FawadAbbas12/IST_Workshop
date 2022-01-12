@@ -4,7 +4,7 @@
 https://urlzs.com/YXGdB
 
 ## Session 03: Tensorflow & Keras
-https://urlzs.com/neKhT
+https://urlzs.com/neKhT<br>
 https://playground.tensorflow.org/
 
 ## Session 06: Time series and NLP
